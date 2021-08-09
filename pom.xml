@@ -70,7 +70,7 @@
         <dependency>
             <groupId>org.elasticsearch</groupId>
             <artifactId>elasticsearch</artifactId>
-            <version>2.3.3</version>
+            <version>6.8.17</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.elasticsearch.plugin/delete-by-query -->
         <dependency>
