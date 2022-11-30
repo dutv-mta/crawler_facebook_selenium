@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: dutv-mta/crawler_facebook_selenium
 spec:
-  type: other
-  lifecycle: unknown
-  owner: abc
+  type: service
+  lifecycle: experimental
+  owner: dutv-mta
