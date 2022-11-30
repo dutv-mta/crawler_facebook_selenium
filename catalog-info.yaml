@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: crawler_facebook_selenium
+  annotations:
+    github.com/project-slug: dutv-mta/crawler_facebook_selenium
+spec:
+  type: other
+  lifecycle: unknown
+  owner: abc
